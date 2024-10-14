@@ -1,3 +1,4 @@
+// 모듈 저장
 const fortuneCookies = [
   "Conquer your fears or they will conquer you.",
   "Rivers need springs.",
